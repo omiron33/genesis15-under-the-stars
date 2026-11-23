@@ -1,0 +1,456 @@
+{
+ "title": "Under the Stars (Genesis 15)",
+ "fps": 60,
+ "tier": "ultra",
+ "samples": 8,
+ "scenes": [
+  {
+   "at": "0s",
+   "slug": "title",
+   "screen": "Night over the hill country. The promise star is the first light; the title stands on the horizon.",
+   "purpose": "Night over the hill country. The promise star is the first light; the title stands on the horizon.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": "7.0s",
+   "slug": "camp",
+   "screen": "The black tent alone on the plain, lamplight at its door, the hills dark under the stars.",
+   "purpose": "The black tent alone on the plain, lamplight at its door, the hills dark under the stars.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 0,
+   "slug": "vision",
+   "screen": "At the open door of the tent: the lamp, and a gold light coming down on the roof (the vision).",
+   "purpose": "At the open door of the tent: the lamp, and a gold light coming down on the roof (the vision).",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 1,
+   "slug": "shield",
+   "screen": "A ring of gold lamps rises round the tent in the dark: \"I am your shield\".",
+   "purpose": "A ring of gold lamps rises round the tent in the dark: \"I am your shield\".",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 2,
+   "slug": "reward",
+   "screen": "The camera rises over the camp; the ring of light holds and the stars brighten.",
+   "purpose": "The camera rises over the camp; the ring of light holds and the stars brighten.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 3,
+   "slug": "door",
+   "screen": "Abram at the door of his tent, a silhouette against the lamp, asking.",
+   "purpose": "Abram at the door of his tent, a silhouette against the lamp, asking.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 5,
+   "slug": "childless",
+   "screen": "Abram seated alone by a small fire beside the tent; no one else at the fire.",
+   "purpose": "Abram seated alone by a small fire beside the tent; no one else at the fire.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 7,
+   "slug": "heir",
+   "screen": "Across the camp, the servant's tent with its own lamp: the home-born heir.",
+   "purpose": "Across the camp, the servant's tent with its own lamp: the home-born heir.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 9,
+   "slug": "grieved",
+   "screen": "Close over dry, cracked ground by lamplight: nothing grows. The seed that is not there.",
+   "purpose": "Close over dry, cracked ground by lamplight: nothing grows. The seed that is not there.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 11,
+   "slug": "inherit",
+   "screen": "Abram, standing, looks across to the servant's tent; between them the empty ground.",
+   "purpose": "Abram, standing, looks across to the servant's tent; between them the empty ground.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 13,
+   "slug": "voice",
+   "screen": "The voice: the promise star flares and the camera tilts from the tent up into the sky.",
+   "purpose": "The voice: the promise star flares and the camera tilts from the tent up into the sky.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 14,
+   "slug": "not-heir",
+   "screen": "Abram at the door, looking up; above him the gold star.",
+   "purpose": "Abram at the door, looking up; above him the gold star.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "hold": "three short lines of one promise, sung without a break"
+  },
+  {
+   "at": 17,
+   "slug": "outside",
+   "screen": "He is brought outside: from behind the tent's edge, the figure stands under the whole sky.",
+   "purpose": "He is brought outside: from behind the tent's edge, the figure stands under the whole sky.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 18,
+   "slug": "count",
+   "screen": "The camera tilts up from Abram to the Milky Way; star after star turns gold as they are counted.",
+   "purpose": "The camera tilts up from Abram to the Milky Way; star after star turns gold as they are counted.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 20,
+   "slug": "children",
+   "screen": "Wide: Abram small on a rise, the whole sky gold with counted stars.",
+   "purpose": "Wide: Abram small on a rise, the whole sky gold with counted stars.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 21,
+   "slug": "believed",
+   "screen": "Abram close, a still silhouette against the counted sky; one star above him burns gold.",
+   "purpose": "Abram close, a still silhouette against the counted sky; one star above him burns gold.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 23,
+   "slug": "chaldeans",
+   "screen": "Before dawn: far in the east the ziggurat of Ur stands on the horizon; Abram faces it.",
+   "purpose": "Before dawn: far in the east the ziggurat of Ur stands on the horizon; Abram faces it.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 25,
+   "slug": "land",
+   "screen": "Sunrise: the camera cranes up over the hill country as the land is given.",
+   "purpose": "Sunrise: the camera cranes up over the hill country as the land is given.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 26,
+   "slug": "how-know",
+   "screen": "Morning on a hill: Abram looks out over the land, the camera moving round behind him.",
+   "purpose": "Morning on a hill: Abram looks out over the land, the camera moving round behind him.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 28,
+   "slug": "heifer",
+   "screen": "The heifer and the she-goat walk along a ridge against the low sun, led to Abram.",
+   "purpose": "The heifer and the she-goat walk along a ridge against the low sun, led to Abram.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 31,
+   "slug": "ram",
+   "screen": "The ram follows, and a dove and a pigeon cross the morning sky.",
+   "purpose": "The ram follows, and a dove and a pigeon cross the morning sky.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 33,
+   "slug": "cut",
+   "screen": "High above: the halves laid in two rows facing each other, a path between; Abram at the end.",
+   "purpose": "High above: the halves laid in two rows facing each other, a path between; Abram at the end.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 35,
+   "slug": "birds",
+   "screen": "Birds of prey wheel above the pieces in the afternoon; the birds he did not divide lie whole.",
+   "purpose": "Birds of prey wheel above the pieces in the afternoon; the birds he did not divide lie whole.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 37,
+   "slug": "sat",
+   "screen": "Abram sits beside the pieces with his staff and keeps watch; the birds dive and turn away.",
+   "purpose": "Abram sits beside the pieces with his staff and keeps watch; the birds dive and turn away.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "hold": "Abram keeps watch through two lines while the birds come and go"
+  },
+  {
+   "at": 39,
+   "slug": "sunset",
+   "screen": "The sun touches the hills; Abram is a seated silhouette by the pieces.",
+   "purpose": "The sun touches the hills; Abram is a seated silhouette by the pieces.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 40,
+   "slug": "terror",
+   "screen": "A great darkness comes down; the light drains from the sky as the camera closes on Abram.",
+   "purpose": "A great darkness comes down; the light drains from the sky as the camera closes on Abram.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 42,
+   "slug": "know",
+   "screen": "Night has come: Abram sits in the dark, faint stars returning over the pieces.",
+   "purpose": "Night has come: Abram sits in the dark, faint stars returning over the pieces.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 44,
+   "slug": "strangers",
+   "screen": "Far off at dusk, Egypt: pyramids on the horizon, and a line of far lamps that are not at home.",
+   "purpose": "Far off at dusk, Egypt: pyramids on the horizon, and a line of far lamps that are not at home.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "hold": "two lines of the same exile, one image of Egypt"
+  },
+  {
+   "at": 46,
+   "slug": "four-hundred",
+   "screen": "Years pass over Egypt: the sun runs across the sky again and again above the pyramids.",
+   "purpose": "Years pass over Egypt: the sun runs across the sky again and again above the pyramids.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 48,
+   "slug": "come-forth",
+   "screen": "Night in the desert: a long column of lamps comes out towards us, carrying much.",
+   "purpose": "Night in the desert: a long column of lamps comes out towards us, carrying much.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 50,
+   "slug": "peace",
+   "screen": "Evening under the oak: an old man's rest, quiet light through the leaves.",
+   "purpose": "Evening under the oak: an old man's rest, quiet light through the leaves.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 52,
+   "slug": "fourth-gen",
+   "screen": "Dusk: four lamps are lit one after another along the ground, the four generations.",
+   "purpose": "Dusk: four lamps are lit one after another along the ground, the four generations.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 53,
+   "slug": "amorites",
+   "screen": "The Amorites' walled hill under the moon, its lamps lit: their measure not yet full.",
+   "purpose": "The Amorites' walled hill under the moon, its lamps lit: their measure not yet full.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "hold": "the line ends and the instrumental turns toward the fire; the city waits"
+  },
+  {
+   "at": 54,
+   "slug": "flame",
+   "screen": "Full dark. In the black between the rows, a flame appears: a smoking furnace and a lamp of fire.",
+   "purpose": "Full dark. In the black between the rows, a flame appears: a smoking furnace and a lamp of fire.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 56,
+   "slug": "passed",
+   "screen": "The furnace and the lamp pass down the path between the pieces, toward us, and on.",
+   "purpose": "The furnace and the lamp pass down the path between the pieces, toward us, and on.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "hold": "the fire passes the whole length of the pieces as the covenant is made"
+  },
+  {
+   "at": 58,
+   "slug": "descendants",
+   "screen": "Morning over the promised land from high above, the sun up, the hills going on and on.",
+   "purpose": "Morning over the promised land from high above, the sun up, the hills going on and on.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 59,
+   "slug": "rivers",
+   "screen": "Sweeping west to east across the land: Egypt's pyramids at one edge of the world.",
+   "purpose": "Sweeping west to east across the land: Egypt's pyramids at one edge of the world.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 60,
+   "slug": "kenites",
+   "screen": "The peoples of the land: a walled hill town in the morning haze.",
+   "purpose": "The peoples of the land: a walled hill town in the morning haze.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 62,
+   "slug": "chettites",
+   "screen": "Ridge after ridge in the noon light, a town on each skyline.",
+   "purpose": "Ridge after ridge in the noon light, a town on each skyline.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 64,
+   "slug": "amorites-list",
+   "screen": "A quick sweep along a ridge line in the afternoon.",
+   "purpose": "A quick sweep along a ridge line in the afternoon.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 65,
+   "slug": "evites",
+   "screen": "Evening: lamps come on in the towns on the far hills.",
+   "purpose": "Evening: lamps come on in the towns on the far hills.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "at": 66,
+   "slug": "jebusites",
+   "screen": "Before dawn, the hill of the Jebusites, and above it the promise star once more.",
+   "purpose": "Before dawn, the hill of the Jebusites, and above it the promise star once more.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "hold": "the last name and the instrumental after it"
+  },
+  {
+   "at": "272s",
+   "slug": "night-again",
+   "screen": "Night returns over the land: Abram small on a hill, the stars turning gold again one by one.",
+   "purpose": "Night returns over the land: Abram small on a hill, the stars turning gold again one by one.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "hold": "the outro: the stars return"
+  },
+  {
+   "at": "281s",
+   "slug": "end",
+   "screen": "The tent and the whole counted sky; the camera rises slowly as the last fifth hangs.",
+   "purpose": "The tent and the whole counted sky; the camera rises slowly as the last fifth hangs.",
+   "leaves": "cut on the beat",
+   "carries": "the land and the sky of one world",
+   "words": "on a plane placed in the scene, lit to match",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "hold": "the last held chord"
+  }
+ ]
+}

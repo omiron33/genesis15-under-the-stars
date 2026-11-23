@@ -1,0 +1,350 @@
+{
+ "fps": 60,
+ "tier": "ultra",
+ "samples": 8,
+ "title": "Under the Stars (Genesis 15)",
+ "scenes": [
+  {
+   "id": "00",
+   "scene": "s00-title",
+   "from": 0.0,
+   "to": 7.38,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "01",
+   "scene": "s01-camp",
+   "from": 7.38,
+   "to": 13.82,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "02",
+   "scene": "s02-vision",
+   "from": 13.82,
+   "to": 19.51,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "03",
+   "scene": "s03-shield",
+   "from": 19.51,
+   "to": 26.78,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "04",
+   "scene": "s04-reward",
+   "from": 26.78,
+   "to": 31.62,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "05",
+   "scene": "s05-door",
+   "from": 31.62,
+   "to": 38.12,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "06",
+   "scene": "s06-childless",
+   "from": 38.12,
+   "to": 43.79,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "07",
+   "scene": "s07-heir",
+   "from": 43.79,
+   "to": 50.3,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "08",
+   "scene": "s08-grieved",
+   "from": 50.3,
+   "to": 56.78,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "09",
+   "scene": "s09-inherit",
+   "from": 56.78,
+   "to": 62.684,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "10",
+   "scene": "s10-voice",
+   "from": 62.684,
+   "to": 68.94,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "offBeat": "cut in the breath before \"At once the Lord\u2019s voice came:\", which follows the previous line with no beat between"
+  },
+  {
+   "id": "11",
+   "scene": "s11-not-heir",
+   "from": 68.94,
+   "to": 77.645,
+   "hold": "three short lines of one promise, sung without a break",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "12",
+   "scene": "s12-outside",
+   "from": 77.645,
+   "to": 81.11,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "offBeat": "cut in the breath before \"He brought Abram outside:\", which follows the previous line with no beat between"
+  },
+  {
+   "id": "13",
+   "scene": "s13-count",
+   "from": 81.11,
+   "to": 88.4,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "samples": 16
+  },
+  {
+   "id": "14",
+   "scene": "s14-children",
+   "from": 88.4,
+   "to": 95.7,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "15",
+   "scene": "s15-believed",
+   "from": 95.7,
+   "to": 102.19,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "16",
+   "scene": "s16-chaldeans",
+   "from": 102.19,
+   "to": 107.607,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "17",
+   "scene": "s17-land",
+   "from": 107.607,
+   "to": 114.35,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "offBeat": "cut in the breath before \"to give you this land as your inheritance.\u201d\", which follows the previous line with no beat between"
+  },
+  {
+   "id": "18",
+   "scene": "s18-how-know",
+   "from": 114.35,
+   "to": 120.84,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "19",
+   "scene": "s19-heifer",
+   "from": 120.84,
+   "to": 127.31,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "20",
+   "scene": "s20-ram",
+   "from": 127.31,
+   "to": 133.0,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "samples": 16
+  },
+  {
+   "id": "21",
+   "scene": "s21-cut",
+   "from": 133.0,
+   "to": 139.48,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "22",
+   "scene": "s22-birds",
+   "from": 139.48,
+   "to": 145.79,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "samples": 16
+  },
+  {
+   "id": "23",
+   "scene": "s23-sat",
+   "from": 145.79,
+   "to": 154.08,
+   "hold": "Abram keeps watch through two lines while the birds come and go",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "offBeat": "cut in the breath before \"upon the divided pieces;\", which follows the previous line with no beat between",
+   "samples": 16
+  },
+  {
+   "id": "24",
+   "scene": "s24-sunset",
+   "from": 154.08,
+   "to": 158.12,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "25",
+   "scene": "s25-terror",
+   "from": 158.12,
+   "to": 163.77,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "26",
+   "scene": "s26-know",
+   "from": 163.77,
+   "to": 170.19,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "27",
+   "scene": "s27-strangers",
+   "from": 170.19,
+   "to": 178.192,
+   "hold": "two lines of the same exile, one image of Egypt",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "28",
+   "scene": "s28-four-hundred",
+   "from": 178.192,
+   "to": 183.82,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "offBeat": "cut in the breath before \"for four hundred years.\u201d\", which follows the previous line with no beat between"
+  },
+  {
+   "id": "29",
+   "scene": "s29-come-forth",
+   "from": 183.82,
+   "to": 190.26,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "30",
+   "scene": "s30-peace",
+   "from": 190.26,
+   "to": 196.67,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "31",
+   "scene": "s31-fourth-gen",
+   "from": 196.67,
+   "to": 203.7,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "32",
+   "scene": "s32-amorites",
+   "from": 203.7,
+   "to": 212.44,
+   "hold": "the line ends and the instrumental turns toward the fire; the city waits",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "33",
+   "scene": "s33-flame",
+   "from": 212.44,
+   "to": 219.79,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "samples": 16
+  },
+  {
+   "id": "34",
+   "scene": "s34-passed",
+   "from": 219.79,
+   "to": 228.76,
+   "hold": "the fire passes the whole length of the pieces as the covenant is made",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "samples": 16
+  },
+  {
+   "id": "35",
+   "scene": "s35-descendants",
+   "from": 228.76,
+   "to": 235.28,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "36",
+   "scene": "s36-rivers",
+   "from": 235.28,
+   "to": 240.897,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "37",
+   "scene": "s37-kenites",
+   "from": 240.897,
+   "to": 246.7,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "offBeat": "cut in the breath before \"\u201cThe Kenites, the Kenezites,\", which follows the previous line with no beat between"
+  },
+  {
+   "id": "38",
+   "scene": "s38-chettites",
+   "from": 246.7,
+   "to": 253.22,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "39",
+   "scene": "s39-amorites-list",
+   "from": 253.22,
+   "to": 257.218,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "40",
+   "scene": "s40-evites",
+   "from": 257.218,
+   "to": 263.83,
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light",
+   "offBeat": "cut in the breath before \"the Evites, the Gergesites,\", which follows the previous line with no beat between"
+  },
+  {
+   "id": "41",
+   "scene": "s41-jebusites",
+   "from": 263.83,
+   "to": 272.0,
+   "hold": "the last name and the instrumental after it",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "42",
+   "scene": "s42-night-again",
+   "from": 272.0,
+   "to": 281.01,
+   "hold": "the outro: the stars return",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  },
+  {
+   "id": "43",
+   "scene": "s43-end",
+   "from": 281.01,
+   "to": 290.0,
+   "hold": "the last held chord",
+   "overlay": "2026-11-23: overlay lyrics like Genesis 8 / Salt and Light"
+  }
+ ],
+ "samplePreset": "dove",
+ "lyric": {
+  "haloSpread": 9,
+  "shade": 0.6
+ },
+ "gates": {
+  "maxCameraOnlySeconds": 1000000000.0,
+  "restFraction": 0
+ },
+ "optOuts": {
+  "live": "2026-11-23: Genesis 8 way, live gate off for this film",
+  "rest-to-rest": "2026-11-23: Genesis 8 way, rest-to-rest warning off for this film"
+ }
+}
